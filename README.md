@@ -1,4 +1,8 @@
 # Kargo Software Engineer Intern Online Assessment
+Name: Mohammed Chowdhury
+
+email : Chowdhury1478@gmail.com
+
 ### [SOURCE CODE](https://github.com/mohammed1478/kg_mohammed1478_2022/blob/master/src/Main.java)
 # To run the file :
 ### 1) go to the "kg_mohammed1478_2022/src" directory
